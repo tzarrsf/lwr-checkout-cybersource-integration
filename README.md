@@ -15,7 +15,6 @@ This project contains Apex code relevant to Salesforce Commerce functionality wh
     - Salesforce Payments Partner Pocket Guide
     - Cybersource Custom Credit Card Form
     - Salesforce Commerce B2B Lightning Web Components Payment Solution
-    - Payment Gateway Adapters
 
 ## What this code is and isn't
 
